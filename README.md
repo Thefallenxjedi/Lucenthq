@@ -30,7 +30,7 @@ Here is exactly what we have mapped out (click the links to read the deep dives)
 
 ### 5. To-Do: Increasing Reach
 *   **Employee-Led Growth:** Found at the bottom of the [GTM Doc](file:///Users/sourabhk/.gemini/antigravity/brain/0c0e7a90-b5f5-437b-af6a-e26e0f3a8afc/gtm_icp_messaging.md). A specific, actionable mandate for the Founder, the Engineers, the PMs, and the Interns to build massive top-of-funnel brand awareness organically on LinkedIn and Twitter.
-*   **Next Step:** Executing the Reddit Community & Ads Strategy to test the ICP messaging.
+*   **The Paid/Organic Test:** **[The Reddit Playbook](file:///Users/sourabhk/.gemini/antigravity/brain/0c0e7a90-b5f5-437b-af6a-e26e0f3a8afc/reddit_playbook.md)**. The tactical execution plan outlining how to organically infiltrate tech subreddits, alongside the exact ad copy we are testing to see which ICP yields the lowest Cost Per Acquisition (CPA).
 
 ---
 

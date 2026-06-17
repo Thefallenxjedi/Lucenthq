@@ -1,5 +1,6 @@
-# Lucent GTM Execution Checklist
-
-- `[/]` **Phase 1: ICP Evaluation & Core Messaging** (`gtm_icp_messaging.md`)
-- `[ ]` **Phase 2: Reddit Community & Ad Strategy** (`reddit_growth_playbook.md`)
-- `[x]` **Phase 3: Content Creation Roadmap** (`content_roadmap.md`)
+- `[/]` Execute Phase 2: Reddit Distribution Engine
+  - `[x]` Draft Organic Reddit Strategy (avoiding self-promotion bans)
+  - `[x]` Draft Paid Ad Copy & Creative Angles for Enterprise (r/webdev)
+  - `[x]` Draft Paid Ad Copy & Creative Angles for Series A (r/SaaS)
+  - `[x]` Draft Paid Ad Copy & Creative Angles for PMs (r/ProductManagement)
+  - `[ ]` Sync Reddit Playbook to GitHub repository
