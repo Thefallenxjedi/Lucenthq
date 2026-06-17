@@ -1,7 +1,7 @@
 # LucentHQ
 
 ## Who am I?
-I am a Product Manager by choice. In the past, I was a researcher, and over time I've developed strong instincts around what it takes to be a great PM. I've been deep in this specific domain for the past 3 years, using tools like PostHog and Hotjar extensively. 
+I am a Product Manager by choice. In the past, I was a researcher, and over time I've developed strong product instincts. I've been deep in this specific domain for the past 3 years, using tools like PostHog and Hotjar extensively. 
 
 When I first came across LucentHQ, I couldn't immediately use it, but after seeing and reading Harsh's post, it became incredibly clear what this tool is actually capable of. I shared some initial ideas with Harsh, but when I sat down and thought deeply about the product architecture and the competitive landscape, it took me 10+ days to distill everything into this master document. 
 
