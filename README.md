@@ -1,4 +1,4 @@
-# LucentHQ: The Master Strategy & GTM Blueprint
+# LucentHQ
 
 ## Who am I?
 I am a Product Manager by choice. In the past, I was a researcher, and over time I've developed strong instincts around what it takes to be a great PM. I've been deep in this specific domain for the past 3 years, using tools like PostHog and Hotjar extensively. 
