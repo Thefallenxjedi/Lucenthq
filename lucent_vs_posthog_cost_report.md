@@ -1,5 +1,7 @@
 # Cost Per Recording Report: LucentHQ vs. PostHog
 
+![LucentHQ Logo](./media__1781680089387.png) **vs.** ![PostHog Logo](./media__1781680067616.png)
+
 To accurately position LucentHQ, we need to understand the exact mathematical difference in "Cost Per Recording" compared to PostHog's usage-based tiers. 
 
 PostHog's pricing is extremely aggressive on volume. To win, LucentHQ must emphasize that our cost includes **100% automated AI analysis**, whereas PostHog only covers the storage and hosting of the video.
@@ -23,7 +25,7 @@ To quickly compare the core tiers that LucentHQ offers against PostHog's equival
 
 Here is a direct look at the aggressive scaling of PostHog's usage-based pricing:
 
-<img src="/Users/sourabhk/.gemini/antigravity/brain/0c0e7a90-b5f5-437b-af6a-e26e0f3a8afc/media__1781680155250.png" width="400" alt="PostHog Pricing Screenshot" style="border-radius: 8px; margin-top: 10px; margin-bottom: 20px;" />
+<img src="./media__1781680155250.png" width="400" alt="PostHog Pricing Screenshot" style="border-radius: 8px; margin-top: 10px; margin-bottom: 20px;" />
 
 | Service Type | Volume Tier | Price per Recording | Total Cost |
 | :--- | :--- | :--- | :--- |
